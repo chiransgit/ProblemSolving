@@ -6,7 +6,7 @@
 *.pydevproject
 .metadata
 .gradle
-bin/
+ProblemSolving_Java/bin/
 tmp/
 *.tmp
 *.bak
